@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "CLI GEM PROJECT --- ART BOOKS!"
-date:       2019-12-10 06:45:47 +0000
+date:       2019-12-10 01:45:48 -0500
 permalink:  cli_gem_project_---_art_books
 ---
 
