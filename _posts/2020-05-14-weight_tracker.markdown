@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Weight Tracker"
-date:       2020-05-15 03:31:56 +0000
+date:       2020-05-14 23:31:57 -0400
 permalink:  weight_tracker
 ---
 
