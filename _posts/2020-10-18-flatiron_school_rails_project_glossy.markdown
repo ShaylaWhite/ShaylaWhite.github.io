@@ -5,11 +5,7 @@ date:       2020-10-18 23:38:15 -0400
 permalink:  flatiron_school_rails_project_glossy
 ---
 
-
-
-
-<center><a href="https://ibb.co/w4JJyLZ"><img src="https://i.ibb.co/rHbbktK/Screenshot-2.png" alt="Screenshot-2" border="0"></a></center>
-
+<a href="https://ibb.co/w4JJyLZ"><img src="https://i.ibb.co/rHbbktK/Screenshot-2.png" alt="Screenshot-2" border="0"></a>
 # <center>GLOSSY!</center>
 In all honesty this project was hard for me. I started over several times, got sick and at times life was simply rough. <br><br>
 However, I never gave up and Glossy was created. <br><br>
