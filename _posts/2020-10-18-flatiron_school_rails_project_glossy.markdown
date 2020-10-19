@@ -8,7 +8,7 @@ permalink:  flatiron_school_rails_project_glossy
 
 
 
-<center><a href="https://ibb.co/v3qBFk0"><img src="https://i.ibb.co/5r490Lb/Screenshot-2.png" alt="Screenshot-2" border="0"></a></center>
+<center><a href="https://ibb.co/w4JJyLZ"><img src="https://i.ibb.co/rHbbktK/Screenshot-2.png" alt="Screenshot-2" border="0"></a></center>
 
 # <center>GLOSSY!</center>
 In all honesty this project was hard for me. I started over several times, got sick and at times life was simply rough. <br><br>
